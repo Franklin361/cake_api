@@ -1,0 +1,8 @@
+
+http/
+node_modules/
+
+.env
+
+uploads/productos/**.*
+uploads/usuarios/**.*
